@@ -1,0 +1,10 @@
+tons 0 - 9
+N quadrados 
+
+estratégia
+1- percorrer e identificar as posições de valor "0" na lista
+2 - atribuir valor baseado nas posições adjacentes ao quadrado de ton "0"
+3 - verificar se é o menor valor possível e caso não seja, subtituir o tom
+
+
+problemas: Percorrer a lista em ambos os sentidos
